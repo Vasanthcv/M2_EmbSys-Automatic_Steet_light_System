@@ -1,1 +1,1 @@
-# M2_EmbSys-Automatic_Steet_light_System
+# M2_EmbSys-Automatic_Street_light_System
